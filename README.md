@@ -12,6 +12,12 @@
         This project explores supervised learning techniques, specifically focusing on Multiclass Logistic Regression and K-Nearest Neighbor (KNN) algorithms. The goal is to classify penguin species based on features such as bill length, bill depth, and flipper length.
       </p>
       <h2>
+        How to use?
+      </h2>
+      <p>
+        To get started with this project, simply clone the repository to your local machine. Once you have the repository cloned, navigate to the project directory and run the main script. The script is designed to execute seamlessly, so you should be able to see the results of the supervised learning techniques without any additional configuration.
+      </p>
+      <h2>
         Implementation
       </h2>
       <p>
